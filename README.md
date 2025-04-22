@@ -1,4 +1,4 @@
-# Lume - Aplicativo de Emergência SOS
+# Lume - Um toque. Um alerta. Uma luz no escuro." 
 🚨 **Um botão de emergência simples e eficiente para situações de risco**
 
 ---
@@ -84,4 +84,4 @@ MIT License - Livre para uso e modificação.
 ## 💡 Ideias? Problemas?
 Abra uma issue no GitHub! Vamos fazer do Lume um app que salva vidas! 💜
 
-##"Um toque. Um alerta. Uma luz no escuro." 🌟
+
